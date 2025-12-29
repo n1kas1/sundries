@@ -1,0 +1,1 @@
+Nothing needs to be added to .gitignore for this change list, as it only contains a Jupyter notebook file (.ipynb) which is a source file that should be tracked in version control.
